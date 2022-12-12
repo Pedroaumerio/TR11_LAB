@@ -1,4 +1,4 @@
-TR11_LAB
+# TR11_LAB
 
 BAIXANDO O CÓDIGO:
 
@@ -27,6 +27,4 @@ Quando for encerrado, mostrará os números digitados em ordem crescente, e o me
 
 ⚠️OBS: o programa mudará o comportamento caso o arquivo main.c seja alterado.
 
-⚠️OBS
-
-Código desenvolvido para rodar em Linux
+⚠️OBS: Código desenvolvido para rodar em Linux
